@@ -1,0 +1,12 @@
+# Files
+.env
+
+# Folders
+src/*
+nginx/access.log
+nginx/error.log
+nginx/conf.d/default.conf
+mysql/data/*
+sphinx/sphinxbin/*
+sphinx/sphinxdata/*
+sphinx/sphinxlog/*
